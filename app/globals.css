@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .h1-headline {
+    @apply text-[2rem] font-bold leading-[2.5rem];
+  }
+
+  .h2-headline {
+    @apply text-[1.5rem] font-bold leading-[2rem];
+  }
+
+  .h3-headline {
+    @apply text-[1.5rem] font-semibold leading-[2rem];
+  }
+
+  .h4-headline {
+    @apply text-[1.375rem] font-bold leading-[2rem];
+  }
+
+  .h5-headline {
+    @apply text-[1.375rem] font-semibold leading-[2rem];
+  }
+
+  .body-l-bold {
+    @apply text-[1.125rem] font-bold leading-[1.5rem];
+  }
+
+  .body-l-semibold {
+    @apply text-[1.125rem] font-semibold leading-[1.5rem];
+  }
+
+  .body-l-medium {
+    @apply text-[1.125rem] font-medium leading-[1.5rem];
+  }
+
+  .body-l-regular {
+    @apply text-[1.125rem] font-normal leading-[1.5rem];
+  }
+
+  .body-m-bold {
+    @apply text-[1rem] font-bold leading-[1.5rem];
+  }
+
+  .body-m-semibold {
+    @apply text-[1rem] font-semibold leading-[1.5rem];
+  }
+
+  .body-m-medium {
+    @apply text-[1rem] font-medium leading-[1.5rem];
+  }
+
+  .body-m-regular {
+    @apply text-[1rem] font-normal leading-[1.5rem];
+  }
+
+  .body-15px-bold {
+    @apply text-[0.9375rem] font-bold leading-[1.5rem];
+  }
+
+  .body-15px-semibold {
+    @apply text-[0.9375rem] font-semibold leading-[1.5rem];
+  }
+
+  .body-15px-medium {
+    @apply text-[0.9375rem] font-medium leading-[1.5rem];
+  }
+
+  .body-15px-regular {
+    @apply text-[0.9375rem] font-normal leading-[1.375rem];
+  }
+
+  .body-14px-bold {
+    @apply text-[0.875rem] font-bold leading-[1.5rem];
+  }
+
+  .body-14px-semibold {
+    @apply text-[0.875rem] font-semibold leading-[1.5rem];
+  }
+
+  .body-14px-medium {
+    @apply text-[0.875rem] font-medium leading-[1.25rem];
+  }
+
+  .body-14px-regular {
+    @apply text-[0.875rem] font-normal leading-[1.375rem];
+  }
+
+  .body-13px-bold {
+    @apply text-[0.8125rem] font-bold leading-[1.5rem];
+  }
+
+  .body-13px-semibold {
+    @apply text-[0.8125rem] font-semibold leading-[1.25rem];
+  }
+
+  .body-13px-medium {
+    @apply text-[0.8125rem] font-medium leading-[1.125rem];
+  }
+
+  .body-13px-regular {
+    @apply text-[0.8125rem] font-normal leading-[1.375rem];
+  }
+}
