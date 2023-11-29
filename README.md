@@ -21,15 +21,15 @@ Here is a working live demo: https://cohort5-dynamic-duo-job-it.vercel.app/
 
 Welcome to Jobit, a specialized job searching platform for developers. Here's a quick rundown of the project:
 
-Motivation: Jobit was created to serve as a dedicated space for developers to connect with job opportunities tailored to their skills and interests. The motivation was to streamline the job search process for the developer community.
+**Motivation**: Jobit was created to serve as a dedicated space for developers to connect with job opportunities tailored to their skills and interests. The motivation was to streamline the job search process for the developer community.
 
-Why I Built This Platform: The primary objective was to offer developers an intuitive platform where they can discover relevant job opportunities, making the job search more efficient and targeted.
+**Why I Built This Platform**: The primary objective was to offer developers an intuitive platform where they can discover relevant job opportunities, making the job search more efficient and targeted.
 
-Problem Solved: Jobit addresses the need for a specialized job platform for developers, simplifying the process of finding suitable job opportunities in the tech industry.
+**Problem Solved**: Jobit addresses the need for a specialized job platform for developers, simplifying the process of finding suitable job opportunities in the tech industry.
 
-What I Learned: Throughout the development, I gained insights into creating user-friendly job search platforms, understanding developer needs, and enhancing the overall user experience.
+**What I Learned**: Throughout the development, I gained insights into creating user-friendly job search platforms, understanding developer needs, and enhancing the overall user experience.
 
-Future Plans: The future of Jobit includes the addition of features like a comprehensive job board, a developer-focused blog, and a newsletter. Users can look forward to a "Save Jobs" feature for a more personalized job search experience.
+**Future Plans**: The future of Jobit includes the addition of features like a comprehensive job board, a developer-focused blog, and a newsletter. Users can look forward to a "Save Jobs" feature for a more personalized job search experience.
 
 ### ⚒️ How to Contribute
 
