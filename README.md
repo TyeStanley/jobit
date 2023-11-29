@@ -1,4 +1,4 @@
-# Jobit - 
+# Jobit - A Job Finder Application
 
 <!-- [![Latest release](https://img.shields.io/github/v/release/TyeStanley/jobit?label=Latest%20release&style=social)](https://cohort5-dynamic-duo-job-it.vercel.app/)
 [![GitHub commits](https://img.shields.io/github/commits-since/TyeStanley/jobit/v1.5.0.svg?style=social)](https://cohort5-dynamic-duo-job-it.vercel.app/) -->
